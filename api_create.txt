@@ -1,0 +1,16 @@
+npm i nodemon (genrate node_modules folder and package-lock.json file)
+npm init -y (genrate package.json)
+npm i express (install express)
+echo app.js (create file)
+
+connect to backend (screen short)
+
+mkdir routes
+mkdir controllers
+cd .\controllers\
+routes and controllers folder inside file create (product.js)
+echo > product.js (new file create)
+
+after creating file (product.js)
+router -> product.js file inside code (Rest_api folder show in the code)
+controller -> product.js file inside code (Rest_api folder show in the code)

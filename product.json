@@ -1,0 +1,36 @@
+[
+    {
+        "name":"iphone",
+        "price": 154,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone12",
+        "price": 145,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"watch",
+        "price": 100,
+        "company":"apple"
+    },
+    {
+        "name":"dell",
+        "price": 250,
+        "feature":true,
+        "company":"dell"
+    },
+    {
+        "name":"samsung gallaxy",
+        "price": 200,
+        "company":"samsung"
+    },
+    {
+        "name":"samsung 8 pro",
+        "price": 165,
+        "feature":true,
+        "company":"samsung"
+    }
+]
